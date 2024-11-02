@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "FIFO_singleclock_jk_behav" "xil_defaultlib.FIFO_singleclock_jk" "xil_defaultlib.glbl" -log "elaborate.log" 
