@@ -44,7 +44,7 @@ Ensuring proper behavior when attempting to write to a full FIFO or read from an
 Usage
 To use the FIFO design in your projects:
 
-timing digram:
+Timing digram:
 ![YDLS81P](https://github.com/user-attachments/assets/5b8f7ce7-ba5e-498d-a430-3c1293d5b360)
 
 Clone the repository.
