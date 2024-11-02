@@ -45,7 +45,7 @@ Ensuring proper behavior when attempting to write to a full FIFO or read from an
 To use the FIFO design in your projects:
 The Avalon® -ST Single-Clock and Avalon® -ST Dual-Clock FIFO cores are FIFO buffers that operate with a common clock and independent clocks for the input and output ports, respectively.
 Figure. Avalon® -ST Single-Clock FIFO Core
-![ZpQBuCY](https://github.com/user-attachments/assets/e52d5157-1828-4ce1-917c-43cd353a2169)
+![JcDc8Ol](https://github.com/user-attachments/assets/cf3e7ddf-cd51-4287-8812-28e12de5f876)
 
 # Timing digram:
 ![YDLS81P](https://github.com/user-attachments/assets/5b8f7ce7-ba5e-498d-a430-3c1293d5b360)
