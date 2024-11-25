@@ -1,4 +1,4 @@
-# FIFO_singleclock_design
+# FIFOsingle clock design
 Overview
 This repository contains a Verilog implementation of a single-clock First-In, First-Out (FIFO) buffer. The FIFO is designed to store 8-bit data across 64 locations, providing basic operations for writing to and reading from the buffer while managing full and empty conditions.
 
