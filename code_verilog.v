@@ -2,7 +2,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer: 
-// 
 // Design Name: 
 // Module Name: FIFO_singleclock_jk
 // Project Name: 
@@ -13,7 +12,6 @@
 //MNIT Jaipur 
 // Create Date: 11/02/2024 10:10:28 AM
 // Dependencies: 
-// 
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
